@@ -12,4 +12,6 @@ Cuenta en la parte administrativa con funciones de:
 En la pagina principal del sitio se pueder ver:
   las noticias(image, titulo,copete y autor
   tambien se puede ingreasr a ver las noticias de forma individual para ver el resto del contenido (cuerpo)
+
+tambien cuenta con una caja de comentarios en la cuales se leeran los comentarios con sugerencias para mejorar la pagina
   
